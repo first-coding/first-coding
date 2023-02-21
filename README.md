@@ -3,7 +3,7 @@
 # welcome first-coding heading.
 
 ![](https://github-readme-stats.vercel.app/api?username=first-coding)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=first-coding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **first-coding/first-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
