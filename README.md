@@ -7,4 +7,4 @@
 </div>
 <div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=first-coding&theme=dracula" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=first-coding" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=first-coding" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=first-coding" /> </div>
