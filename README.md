@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## welcome first-coding heading.
+## welcome first-coding heading. 👋
 
 <!--
 **first-coding/first-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
