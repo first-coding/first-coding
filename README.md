@@ -3,7 +3,7 @@
 ## Welcome to the first-coding homepage. ☺️
 
 <div align="center">
- <img height="137px" src="github-readme-stats.vercel.app" />
+ <img height="137px" src="https://github-readme-stats.vercel.app/api?username=first-coding" />
  <img height="137px" src="github-readme-stats.vercel.app" />
 </div>
 
