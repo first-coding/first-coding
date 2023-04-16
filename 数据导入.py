@@ -5,7 +5,7 @@ import time
 
 def create_bg(user,password,database_name):
     # 连接MySQL数据库
-    conn = pymysql.connect(host='localhost', port=3308, user=user, password=password, charset='utf8')
+    conn = pymysql.connect(host='localhost', port=3300, user=user, password=password, charset='utf8')
 
     # 创建数据库
 
